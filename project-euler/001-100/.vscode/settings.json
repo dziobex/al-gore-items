@@ -6,6 +6,9 @@
         "xutility": "cpp",
         "string": "cpp",
         "utility": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "limits": "cpp",
+        "iterator": "cpp",
+        "xstring": "cpp"
     }
 }
