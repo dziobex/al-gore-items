@@ -9,6 +9,12 @@
         "vector": "cpp",
         "limits": "cpp",
         "iterator": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "iostream": "cpp",
+        "exception": "cpp",
+        "memory": "cpp",
+        "initializer_list": "cpp",
+        "type_traits": "cpp",
+        "xtree": "cpp"
     }
 }
