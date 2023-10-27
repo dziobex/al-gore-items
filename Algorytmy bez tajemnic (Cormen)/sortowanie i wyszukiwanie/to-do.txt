@@ -1,0 +1,5 @@
+✅binary search
+✅insertion sort
+✅select sort
+🔲mergesort
+🔲quicksort
