@@ -7,6 +7,9 @@ void swap(int *a, int *b) {
     *b = temp;
 }
 
+// typ sortowania: deterministyczne (ZEGARMISTRZ UŻYTKOWNIK)
+// jest jeszcze randomizowane, które polega na tym że pivot zamienia się przed użyciem z jakimś innym elementem
+
 void szybcior(int tab[], int p, int q) {
     if (p >= q)
         return;
